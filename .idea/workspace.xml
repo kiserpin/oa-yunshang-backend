@@ -4,58 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb589d3-500b-4c3c-8f12-b54274bba7b6" name="Changes" comment="no just test">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9/storage_v2/_src_/schema/guigu-oa.tlbgsQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common-util/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common-util/src/main/java/com/kmun/common/result/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common-util/src/main/java/com/kmun/common/result/ResultCodeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common-util/target/classes/com/kmun/common/result/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common-util/target/classes/com/kmun/common/result/ResultCodeEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/service-util/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/spring-security/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/kmun/model/base/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/kmun/model/system/SysRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/kmun/model/system/SysUserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/target/classes/com/kmun/model/base/BaseEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/target/classes/com/kmun/model/system/SysRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/target/classes/com/kmun/model/system/SysUserRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/ServiceAuthApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/controller/SysRoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/mapper/SysRoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/service/SysRoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/service/impl/SysRoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/test/java/com/kmun/auth/TestMpDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/test/java/com/kmun/auth/TestMpDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/target/classes/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/ServiceAuthApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/controller/SysRoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/mapper/SysRoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/service/SysRoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/service/impl/SysRoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/target/test-classes/com/kmun/auth/TestMpDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/target/test-classes/com/kmun/auth/TestMpDemo2.class" afterDir="false" />
-    </list>
+    <list default="true" id="4cb589d3-500b-4c3c-8f12-b54274bba7b6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,8 +191,17 @@
       <workItem from="1710812782867" duration="5609000" />
       <workItem from="1710917046345" duration="14609000" />
       <workItem from="1711092561167" duration="2952000" />
-      <workItem from="1711156929053" duration="875000" />
+      <workItem from="1711156929053" duration="1262000" />
     </task>
+    <task id="LOCAL-00001" summary="no just test">
+      <option name="closed" value="true" />
+      <created>1711157954511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711157954511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
