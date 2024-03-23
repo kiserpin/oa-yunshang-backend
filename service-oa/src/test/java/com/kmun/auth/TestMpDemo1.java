@@ -53,7 +53,7 @@ public class TestMpDemo1 {
 
     @Test
     public void testSelect1() {
-        //测试
+        //测试1
         QueryWrapper<SysRole> queryWrapper = new QueryWrapper<>();
         queryWrapper.eq("role_code", "role");
         List<SysRole> users = sysRoleMapper.selectList(queryWrapper);
