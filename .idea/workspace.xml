@@ -4,30 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb589d3-500b-4c3c-8f12-b54274bba7b6" name="Changes" comment="完善角色管理">
-      <change afterPath="$PROJECT_DIR$/common/common-util/src/main/java/com/kmun/common/jwt/JwtHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common-util/src/main/java/com/kmun/common/util/MD5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/service-util/src/main/java/com/kmun/common/config/exception/GuiguException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/kmun/model/system/SysMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/kmun/model/system/SysRoleMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/kmun/system/helper/MenuHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/kmun/vo/AssignMenuVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/kmun/vo/LoginVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/kmun/vo/MetaVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/kmun/vo/RouterVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/controller/SysMenuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/mapper/SysMenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/mapper/SysRoleMenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/service/SysMenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/service/impl/SysMenuServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/src/main/resources/mapper/SysMenuMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9.xml" afterDir="false" />
+    <list default="true" id="4cb589d3-500b-4c3c-8f12-b54274bba7b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/common/spring-security/src/main/java/com/kmun/security/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/service/SysUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/service/SysUserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/service/impl/SysUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/spring-security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/spring-security/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/src/main/resources/mapper/SysMenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/main/resources/mapper/SysMenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/target/test-classes/com/kmun/auth/TestMpDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/target/test-classes/com/kmun/auth/TestMpDemo2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,24 +27,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <favorite-branches>
-      <branch-storage>
-        <map>
-          <entry type="LOCAL">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="v0.2.1" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </favorite-branches>
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="zhouming" />
@@ -66,10 +40,13 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="v0.2" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -78,47 +55,40 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;v0.2.1&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/虚拟机/6、SpringBoot3+Vue3全套教程/04_代码/后端代码/spring-code/oa-parent/model/src/main/resources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;68357a3b5193e6c58ef8916abc17543b&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "v0.2.1",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "last_opened_file_path": "E:/虚拟机/6、SpringBoot3+Vue3全套教程/04_代码/后端代码/spring-code/oa-parent/model/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "1ff12cf4c7291ee0e136defdc878c501",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\虚拟机\6、SpringBoot3+Vue3全套教程\04_代码\后端代码\spring-code\oa-parent\model\src\main\resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Project\Java\oa-parent\common\common-util\src\main\java\com\kmun\common\util" />
-      <recent name="D:\Project\Java\oa-parent\service-oa\src\main\resources" />
-      <recent name="D:\Project\Java\oa-parent\service-oa\src\main\resources\application" />
-      <recent name="D:\Project\Java\oa-parent\service-oa\src\main\resources\mapper" />
-      <recent name="D:\Project\Java\oa-parent\model\src\main\java\com\kmun\vo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kmun.common.result" />
@@ -193,17 +163,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ServiceAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="service-oa" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.kmun.auth.ServiceAuthApplication" />
@@ -246,10 +205,7 @@
       <workItem from="1710917046345" duration="14609000" />
       <workItem from="1711092561167" duration="2952000" />
       <workItem from="1711156929053" duration="1965000" />
-      <workItem from="1717222082458" duration="9786000" />
-      <workItem from="1717373924296" duration="6715000" />
-      <workItem from="1718419256087" duration="4637000" />
-      <workItem from="1718500589580" duration="22000" />
+      <workItem from="1718890066373" duration="3940000" />
     </task>
     <task id="LOCAL-00001" summary="no just test">
       <option name="closed" value="true" />
@@ -275,23 +231,7 @@
       <option name="project" value="LOCAL" />
       <updated>1711158617566</updated>
     </task>
-    <task id="LOCAL-00004" summary="Changes">
-      <option name="closed" value="true" />
-      <created>1716625546171</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1716625546171</updated>
-    </task>
-    <task id="LOCAL-00005" summary="完善角色管理">
-      <option name="closed" value="true" />
-      <created>1716626579810</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1716626579810</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,19 +242,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="v0.2.1" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -322,9 +250,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="no just test" />
-    <MESSAGE value="Changes" />
-    <MESSAGE value="完善角色管理" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善角色管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="no just test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
